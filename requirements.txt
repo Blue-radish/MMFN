@@ -1,0 +1,13 @@
+transformers
+chardet
+huggingface_hub
+jupyter
+pandas
+numpy
+tqdm
+qqdm
+datasets
+# pytorch 建议自己另外安装
+torch 
+torchvision 
+torchaudio
