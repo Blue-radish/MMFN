@@ -321,7 +321,7 @@ with gr.Blocks() as web:
                 inf_text = gr.Textbox(label="文字")
         with gr.Row(): # 水平
             with gr.Column(scale=1):
-                gr.Image(value="./model/img_model/bert.jpg")
+                gr.Image(value="./figure/bert.jpg")
             with gr.Column(scale=3):
                 inf_output = gr.Textbox(label="output")
         inf_run.click(fn=data, inputs=[inf_imgs, inf_text, inf_model], outputs=inf_output)
