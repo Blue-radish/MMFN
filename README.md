@@ -1,3 +1,8 @@
+# SECMME 2025
+The code implementation for the article "Fake Information Detection Method Based on BERT Pre-trained Model".
+
+The link for this paper is https://ieeexplore.ieee.org/abstract/document/11138502
+
 # 第二十六届中国机器人及人工智能大赛
 Source code for the "基于BERT预训练模型的虚假信息检测系统" project.
 
