@@ -1,5 +1,3 @@
-# MMFN: Multimodal Fake Information Detection System
-
 本仓库为论文 **《Fake Information Detection Method Based on BERT Pre-trained Model》** 的官方代码实现，对应第二十六届中国机器人及人工智能大赛参赛项目。  
 The code implementation for the article *"Fake Information Detection Method Based on BERT Pre-trained Model"*.
 
