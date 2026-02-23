@@ -1,3 +1,5 @@
+# MMFN / SECMME 2025
+
 本仓库为论文 **《Fake Information Detection Method Based on BERT Pre-trained Model》** 的官方代码实现，对应第二十六届中国机器人及人工智能大赛参赛项目。  
 The code implementation for the article *"Fake Information Detection Method Based on BERT Pre-trained Model"*.
 
@@ -90,5 +92,5 @@ Text Encoder (hfl_rbt6)        Image Encoder (ResNet-50)
                 Classifier
 ```
 
-# Poster (基于BERT预训练模型的虚假信息检测系统)
+# Poster (多模态的虚假信息检测系统)
 ![Poster.](./figure/WebUI.png)
